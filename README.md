@@ -1,4 +1,4 @@
-# Solitaire prime
+# Solitaire prime (C++)
 # rules:
 # 1) Take the top car from the deck and place it face up on the table
 # 2) the sum is not he value of that card
